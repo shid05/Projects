@@ -1,14 +1,14 @@
 # Assignment
 
-# Step 1: Set up and planning
+ Step 1: Set up and planning
     Set up your git repository (refer to past projects if you need a refresher).
     Set up your HTML and CSS files with some dummy content, just to make sure you have everything linked correctly.
     Download a full-resolution copy of the design file, and get a general idea for how you’re going to need to lay things out in your HTML document.
-# Step 2: Gather assets
+ Step 2: Gather assets
     The design has a large background-image, so go find and download an image you want to use for that section. The one in the design can be found on unsplash.com, but feel free to select your own. Be sure to credit the creator of your image!
     Pick an external font for the ‘logo’ section. We’ve used Norse Bold, but you can use any font you like.
     For the image-sidebar, we’ve used this Odin logo.
-# Step 3: Some tips!
+ Step 3: Some tips!
     How you attack this project is mostly up to you, but it is wise to begin by scaffolding out the structure of the page, and then tackle the various sections one by one.
     The area behind the “ODIN” logo is a div that has a dark, but semi-transparent background color. This enhances the readability of the text against the busy background image.
     The color we’ve chosen for the ‘Create Account’ button is similar to tones found in the background image. Specifically, it is #596D48.
@@ -19,4 +19,5 @@
 
 
 
-# By Shid :>
+# Live Preview
+https://htmlpreview.github.io/?https://github.com/shid05/Projects/blob/main/Sign-up-form/index.html
